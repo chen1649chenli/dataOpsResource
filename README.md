@@ -5,7 +5,7 @@
 
 ## Books
 
-- [The DataOps Cookbook](https://github.com/chen1649chenli/awesome-dataOps/blob/master/books/DataKitchen_dataops_cookbook.pdf)
+- [The DataOps Cookbook](https://www.datakitchen.io/dataops-cookbook-main.html)
 
 - [blogs](#another-section)
 
