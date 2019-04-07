@@ -5,7 +5,7 @@
 
 ## Books
 
-- [The DataOps Cookbook](https://www.datakitchen.io/dataops-cookbook-main.html)
+- [The DataOps Cookbook](https://www.datakitchen.io/dataops-cookbook-main.html) A 135-page long book that describes the steip-by-step implmentation of Data Ops. 
 
 - [blogs](#another-section)
 
