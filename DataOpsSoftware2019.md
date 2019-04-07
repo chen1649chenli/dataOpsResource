@@ -65,7 +65,8 @@ Automate deployment and monitoring of AI Models.
 - [DSFlow](http://dsflow.io/)Go from data extraction to business value in days, not months. Build on top of open source tech, using Silicon Valley’s best practices.
 - [DataMo-Datmo](https://datmo.com/)
 tools help you seamlessly deploy and manage models in a scalable, reliable, and cost-optimized way.
-- [MLFlow](https://www.mlflow.org/)An open source platform for the complete machine learning lifecycle from MapR.
+- [MLFlow](https://www.mlflow.org/)
+An open source platform for the complete machine learning lifecycle from MapR.
 - [Studio.ML](https://www.studio.ml/)
 Studio is a model management framework written in Python to help simplify and expedite your model building experience.
 - [Comet.ML](https://www.comet.ml/)
