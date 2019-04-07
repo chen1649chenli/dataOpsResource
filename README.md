@@ -1,5 +1,3 @@
-# awesome-dataOps
-Awesome List for Data Operations
 # Awesome Data Ops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of data operations resources, focused for Cultural Heritage Organizations usage.
@@ -8,6 +6,7 @@ Awesome List for Data Operations
 ## Contents
 
 - [books](#section)
+
 - [blogs](#another-section)
 
 
