@@ -3,16 +3,14 @@
 > A curated list of data operations resources, focused for Cultural Heritage Organizations usage.
 
 
-## Contents
+## Books
 
-- [books](#section)
+- [The DataOps Cookbook](https://github.com/chen1649chenli/awesome-dataOps/blob/master/books/DataKitchen_dataops_cookbook.pdf)
 
 - [blogs](#another-section)
 
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
+## Blogs
 
 - [List item](http://example.com)
 - [List item](http://example.com)
