@@ -12,7 +12,7 @@
 
 ## Blogs
 
-### Data QUality
+### Data Quality
 
 - [A Deep Dive Into Data Quality](https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046)
 - [List item](http://example.com)
