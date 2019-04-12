@@ -11,11 +11,13 @@
 
 
 ## Blogs
+### Pipeline Engineering
+- [Smart pipelining — reactive approach to computation scheduling]https://medium.com/casumotech/smart-pipelining-reactive-approach-to-computation-scheduling-5a7e39658df5)
 
 ### Data Quality
 
 - [A Deep Dive Into Data Quality](https://towardsdatascience.com/a-deep-dive-into-data-quality-c1d1ee576046)
-- [List item](http://example.com)
+
 
 
 ## Data Ops Software
