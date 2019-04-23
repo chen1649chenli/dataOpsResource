@@ -12,7 +12,7 @@
 
 ## Papers and Blogs
 ### ETL
- - [Managing Data in Motion]（https://www.progress.com/docs/default-source/default-document-library/Progress/Documents/book-club/Managing-Data-in-Motion.p）
+ - [Managing Data in Motion](https://www.progress.com/docs/default-source/default-document-library/Progress/Documents/book-club/Managing-Data-in-Motion.p)
 
 
 ### Data Quality
