@@ -22,6 +22,7 @@ Use Piperr’s pre-built data pipelines across enterprise stakeholders: From IT 
 Open-source data engineering platform that builds, tests, and runs data workflows.
 - [Genie](https://netflix.github.io/genie/)
 Distributed Big Data Orchestration Service by Netflix
+- [Composable](https://composable.ai) Intelligent End-to-End DataOps platform.
 
 ## Testing and Production Quality
 - [ICEDQ](https://icedq.com/)
