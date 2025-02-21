@@ -52,6 +52,8 @@ Use Piperr’s pre-built data pipelines across enterprise stakeholders: From IT 
 Open-source data engineering platform that builds, tests, and runs data workflows.
 - [Genie](https://netflix.github.io/genie/)
 Distributed Big Data Orchestration Service by Netflix
+- [CsvPath Framework](https://www.csvpath.org)
+Data preboarding infrastructure that fills the gap between MFT and the data lake by acting as the trusted publisher of proveably correct data 
 
 ### Testing and Production Quality
 - [ICEDQ](https://icedq.com/)
